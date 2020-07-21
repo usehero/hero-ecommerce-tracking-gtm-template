@@ -1,0 +1,5 @@
+homepage: "https://www.usehero.com"
+documentation: "https://github.com/usehero/hero-ecommerce-tracking-gtm-template"
+versions:
+  - sha: f84baf614870775b1685ae0a7c0146d44094a0e5
+    changeNotes: Initial release.
