@@ -1,5 +1,7 @@
 homepage: "https://www.usehero.com"
 documentation: "https://github.com/usehero/hero-ecommerce-tracking-gtm-template"
 versions:
+  - sha: bbe064afb02fd0f6a058911e7999d9cbe6717833
+    changeNotes: Update brand name, brand thumbnail and description
   - sha: f84baf614870775b1685ae0a7c0146d44094a0e5
     changeNotes: Initial release.
